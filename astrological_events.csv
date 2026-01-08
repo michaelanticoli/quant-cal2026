@@ -1,0 +1,31 @@
+date,time,event_type,sign,description
+2026-01-01,00:00,new_year,capricorn,New Year's Day - Beginning of a transformative year
+2026-01-06,18:58,full_moon,cancer,Wolf Moon in Cancer
+2026-01-20,23:18,new_moon,aquarius,New Moon in Aquarius
+2026-02-05,13:13,full_moon,leo,Snow Moon in Leo
+2026-02-19,06:07,new_moon,pisces,New Moon in Pisces
+2026-03-07,07:31,full_moon,virgo,Worm Moon in Virgo
+2026-03-20,14:46,spring_equinox,aries,Spring Equinox - Balance of Light and Dark
+2026-03-20,20:24,new_moon,aries,New Moon in Aries
+2026-04-05,22:48,full_moon,libra,Pink Moon in Libra
+2026-04-19,09:09,new_moon,taurus,New Moon in Taurus
+2026-05-05,10:23,full_moon,scorpio,Flower Moon in Scorpio
+2026-05-18,19:20,new_moon,gemini,New Moon in Gemini
+2026-06-03,18:42,full_moon,sagittarius,Strawberry Moon in Sagittarius
+2026-06-17,04:54,new_moon,cancer,New Moon in Cancer
+2026-06-21,02:25,summer_solstice,cancer,Summer Solstice - Longest Day of the Year
+2026-07-03,00:31,full_moon,capricorn,Buck Moon in Capricorn
+2026-07-16,14:08,new_moon,leo,New Moon in Leo
+2026-08-01,04:44,full_moon,aquarius,Sturgeon Moon in Aquarius
+2026-08-14,23:37,new_moon,virgo,New Moon in Virgo
+2026-08-30,08:26,full_moon,pisces,Corn Moon in Pisces
+2026-09-13,09:27,new_moon,libra,New Moon in Libra
+2026-09-22,22:05,autumn_equinox,libra,Autumn Equinox - Balance Returns
+2026-09-28,12:49,full_moon,aries,Harvest Moon in Aries
+2026-10-12,20:13,new_moon,scorpio,New Moon in Scorpio
+2026-10-27,18:11,full_moon,taurus,Hunter's Moon in Taurus
+2026-11-11,08:36,new_moon,sagittarius,New Moon in Sagittarius
+2026-11-26,01:31,full_moon,gemini,Beaver Moon in Gemini
+2026-12-10,23:09,new_moon,capricorn,New Moon in Capricorn
+2026-12-21,14:50,winter_solstice,capricorn,Winter Solstice - Rebirth of the Sun
+2026-12-25,15:28,full_moon,cancer,Cold Moon in Cancer

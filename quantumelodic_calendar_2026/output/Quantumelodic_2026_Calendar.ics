@@ -1,0 +1,6 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Quantumelodic//Calendar 2026//EN
+X-WR-CALNAME:Quantumelodic Calendar 2026 (Placeholder)
+X-WR-CALDESC:Run python main.py after adding CSV data to regenerate this file.
+END:VCALENDAR
